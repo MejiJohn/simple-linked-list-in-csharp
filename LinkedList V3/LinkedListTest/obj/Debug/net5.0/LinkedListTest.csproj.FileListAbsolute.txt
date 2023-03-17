@@ -1,0 +1,38 @@
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\bin\Debug\net5.0\LinkedListTest.exe
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\bin\Debug\net5.0\LinkedListTest.deps.json
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\bin\Debug\net5.0\LinkedListTest.runtimeconfig.json
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\bin\Debug\net5.0\LinkedListTest.runtimeconfig.dev.json
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\bin\Debug\net5.0\LinkedListTest.dll
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\bin\Debug\net5.0\LinkedListTest.pdb
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\bin\Debug\net5.0\LinkedList.dll
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\obj\Debug\net5.0\LinkedListTest.csproj.AssemblyReference.cache
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\obj\Debug\net5.0\LinkedListTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\obj\Debug\net5.0\LinkedListTest.AssemblyInfoInputs.cache
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\obj\Debug\net5.0\LinkedListTest.AssemblyInfo.cs
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\obj\Debug\net5.0\LinkedListTest.csproj.CoreCompileInputs.cache
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\obj\Debug\net5.0\LinkedListTest.csproj.CopyComplete
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\obj\Debug\net5.0\LinkedListTest.dll
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\obj\Debug\net5.0\refint\LinkedListTest.dll
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\obj\Debug\net5.0\LinkedListTest.pdb
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\obj\Debug\net5.0\LinkedListTest.genruntimeconfig.cache
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedListTest\obj\Debug\net5.0\ref\LinkedListTest.dll
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\bin\Debug\net5.0\LinkedListTest.exe
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\bin\Debug\net5.0\LinkedListTest.deps.json
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\bin\Debug\net5.0\LinkedListTest.runtimeconfig.json
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\bin\Debug\net5.0\LinkedListTest.runtimeconfig.dev.json
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\bin\Debug\net5.0\LinkedListTest.dll
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\bin\Debug\net5.0\LinkedListTest.pdb
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\bin\Debug\net5.0\LinkedList.dll
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\obj\Debug\net5.0\LinkedListTest.csproj.AssemblyReference.cache
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\obj\Debug\net5.0\LinkedListTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\obj\Debug\net5.0\LinkedListTest.AssemblyInfoInputs.cache
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\obj\Debug\net5.0\LinkedListTest.AssemblyInfo.cs
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\obj\Debug\net5.0\LinkedListTest.csproj.CoreCompileInputs.cache
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\obj\Debug\net5.0\LinkedListTest.csproj.CopyComplete
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\obj\Debug\net5.0\LinkedListTest.dll
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\obj\Debug\net5.0\refint\LinkedListTest.dll
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\obj\Debug\net5.0\LinkedListTest.pdb
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\obj\Debug\net5.0\LinkedListTest.genruntimeconfig.cache
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedListTest\obj\Debug\net5.0\ref\LinkedListTest.dll

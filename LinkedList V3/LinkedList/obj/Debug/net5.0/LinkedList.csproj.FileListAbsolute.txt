@@ -1,0 +1,24 @@
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedList\bin\Debug\net5.0\LinkedList.deps.json
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedList\bin\Debug\net5.0\LinkedList.dll
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedList\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.csproj.AssemblyReference.cache
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.AssemblyInfo.cs
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.dll
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedList\obj\Debug\net5.0\refint\LinkedList.dll
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.pdb
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList\LinkedList\obj\Debug\net5.0\ref\LinkedList.dll
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedList\bin\Debug\net5.0\LinkedList.deps.json
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedList\bin\Debug\net5.0\LinkedList.dll
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedList\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedList\obj\Debug\net5.0\LinkedList.csproj.AssemblyReference.cache
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedList\obj\Debug\net5.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedList\obj\Debug\net5.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedList\obj\Debug\net5.0\LinkedList.AssemblyInfo.cs
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedList\obj\Debug\net5.0\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedList\obj\Debug\net5.0\LinkedList.dll
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedList\obj\Debug\net5.0\refint\LinkedList.dll
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedList\obj\Debug\net5.0\LinkedList.pdb
+C:\Users\enolm\Documents\Universidad\TPP\Lab\LinkedList\LinkedList V3\LinkedList\obj\Debug\net5.0\ref\LinkedList.dll
